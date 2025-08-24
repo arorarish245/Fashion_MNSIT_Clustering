@@ -50,13 +50,10 @@ Both metrics help assess how well clustering aligns with actual categories.
 
 ### Cluster Centroids
 - Average image of each cluster shows the "prototype" of items grouped together.  
-![Centroid Example](https://via.placeholder.com/600x150?text=Cluster+Centroids+GIF)
 
 ### Sample Images per Cluster
 - Displays up to **5 images per cluster** with their true labels for visual evaluation.  
-![Sample Images](https://via.placeholder.com/600x300?text=Sample+Images+GIF)
 
-> *GIF placeholders can be replaced with your actual visualization GIFs after running the code.*
 
 ---
 
